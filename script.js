@@ -102,7 +102,7 @@ const { useState, useEffect, useMemo, useCallback, useRef } = React;
         const Trophy = (p) => <Icon name="trophy" {...p} />;
 
         // --- CONSTANTS ---
-        const WORKER_URL = "https://api-professor-dashboard.brendonhbrcc.workers.dev/";
+        const WORKER_URL = "sistema-professores.centrodeformacaorcc.workers.dev";
         const MACRO_URL = "https://script.google.com/macros/s/AKfycbx5Go-UGIcQvyA3vefhhl5Rc6-930cG9LsCRb1JPKzTHN5dNfBUCsD063K5RCyANGplEA/exec";
 
         const AUTH_GID = "1512246214";
